@@ -10,6 +10,10 @@ The code was written by [Jun-Yan Zhu](https://github.com/junyanz) and [Taesung P
 
 Original repository by [junyanz](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 
+<img src="https://junyanz.github.io/CycleGAN/images/teaser_high_res.jpg" width="800"/>
+
+<img src="https://phillipi.github.io/pix2pix/images/teaser_v3.png" width="800px"/>
+
 <img src='imgs/edges2cats.jpg' width="400px"/>
 
 ## [CycleGAN notebook](CycleGAN.ipynb) | [Pix2Pix notebook](pix2pix.ipynb)
